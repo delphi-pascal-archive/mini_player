@@ -1,0 +1,42 @@
+[Form1]
+SpeedButton1=Список воспроизведения
+SpeedButton2=Настройки
+SpeedButton3=О программе
+SpeedButton4=Выход
+SpeedButton6=Воспроизвести
+SpeedButton8=Стоп
+SpeedButton10=Предыдущая
+SpeedButton12=Следующая
+SpeedButton13=Выключить звук
+SpeedButton14=Включить звук
+SpeedButton15=Пауза
+SpeedButton16=Громкость
+Label2=Название
+Label3=Исполнитель
+Label4=Альбом
+Label5=Жанр
+
+[Form2]
+SpeedButton1=Добавить файл
+SpeedButton2=Удалить файл
+SpeedButton4=Удалить все
+SpeedButton5=Назад
+Caption=Список воспроизведения
+
+[Form3]
+SpeedButton1=Назад
+Caption=Настройки
+GroupBox1=Язык
+GroupBox2=Общие
+ChekBox1=Сворачивать в Трей
+GroupBox3=Всплывающее окно
+SpeedButton2=Цвет фона
+SpeedButton3=Цвет текста
+Label1=Пример
+
+[Form4]
+Label2=Версия 1.0.0.1
+Label3=Разработчик Гусаков Д.В.
+Label4=Нурек 2006 год
+Label5=E-mail  dima_vesy@mail.ru
+Caption=О программе
